@@ -1,0 +1,9 @@
+{
+  "name": "qld-caveat-probate-search",
+  "description": "Run the Queensland Supreme Court Caveat/Probate Search on the public Online Services Portal before a probate matter proceeds.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aejis Legal"
+  },
+  "keywords": ["probate", "queensland", "caveat", "wills"]
+}

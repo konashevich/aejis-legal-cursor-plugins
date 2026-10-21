@@ -1,0 +1,17 @@
+{
+  "name": "aejis-legal",
+  "owner": {
+    "name": "Aejis Legal",
+    "email": "ai.admin@aejislegal.com.au"
+  },
+  "metadata": {
+    "description": "Required firm skills and rules for Aejis Legal probate work."
+  },
+  "plugins": [
+    {
+      "name": "qld-caveat-probate-search",
+      "source": "qld-caveat-probate-search",
+      "description": "Queensland Supreme Court Caveat / Probate Search on the public Online Services Portal."
+    }
+  ]
+}
